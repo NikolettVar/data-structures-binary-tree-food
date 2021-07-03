@@ -9,6 +9,6 @@ Methods to implement:
 isEmpty, checks if tree contains no nodes
 add, inserts new node into the tree
 size, counts the number of nodes in the tree
-minEmission, finds the minimum CO2 emission car
-maxEmission, finds the maximum CO2 emission car
+minHealthIndex, finds the minimum health index food
+maxHealthIndex, finds the maximum health index food
 inOrder, a tree traversal method, prints the nodes in ascending order.
